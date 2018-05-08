@@ -831,6 +831,7 @@ TODO
 * [《20个命令行工具监控 Linux 系统性能》](http://blog.jobbole.com/96846/)
 
 * [《JVM性能调优监控工具jps、jstack、jmap、jhat、jstat、hprof使用详解》](https://my.oschina.net/feichexia/blog/196575)
+* [线上性能问题初步排查方法](http://ifeve.com/find-bug-online/)
 
 ## APM
 
